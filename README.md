@@ -2,7 +2,6 @@
 
 ### 🛠️ About Me
 - 🎓 Bachelor of Science in Physics, Concentration in Astrophysics
-- 📍 Researcher specializing in data analysis of AGN light curves using Gaussian Process Regression
 - 💻 Skilled in Python, LaTeX, and statistical analysis
 - 🛠️ Experienced in writing technical reports
 
